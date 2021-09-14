@@ -1,6 +1,6 @@
 airflow db init
 
-airflow user create \
+airflow users create \
     --username admin \
     --firstname dh \
     --lastname kim \
